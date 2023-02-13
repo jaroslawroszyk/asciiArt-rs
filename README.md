@@ -9,3 +9,10 @@ Image to ascii-art
     ```
     cargo run > out.txt
     ```
+
+
+## Showcase
+1:
+![Showcase](assets/showcase1.png)
+2:
+![Showcase](assets/showcase2.png)
